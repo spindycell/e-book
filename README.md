@@ -1,4 +1,4 @@
-<p align="center"><img src="head.jpg"></p>
+<p align="center"><img src="head.png"></p>
 
 ## E-BOOK
 
